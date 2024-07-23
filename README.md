@@ -1,31 +1,31 @@
-# Base Conversion Program
+# Python Base Converter
 
-# Overview
-This program allows users to convert numbers between different bases. The base conversion can be done between bases ranging from a minimum base value to a maximum base value specified by the user.
+## Overview
+This Python program allows users to convert numbers between different bases, ranging from a user-defined minimum base to a maximum base. It supports negative numbers and ensures valid base inputs.
 
-# Features
-- Convert numbers from any base between the specified minimum and maximum base.
-- Handles negative numbers.
-- Validates user input to ensure the base is within the specified range.
-- Allows the user to exit the program by typing "exit".
+## Features
+- Convert numbers between any two bases within the specified range.
+- Handles both positive and negative numbers.
+- Validates user inputs for base values.
+- Option to exit the program gracefully.
 
-# Requirements
+## Requirements
 - Python 3.x
 
-# Getting Started
+## Installation
 
-1. Clone the Repository:
+1. **Clone the Repository:**
    ```
    git clone https://github.com/Sebdababo/Python-Base-Converter.git
    cd Python-Base-Converter/converter
    ```
 
-2. Run the Program:
+2. **Run the Program:**
    ```
    python converter.py
    ```
 
-# Usage
+## Usage
 
 1. When prompted, enter the minimum and maximum base values.
 2. Enter the number you want to convert.
