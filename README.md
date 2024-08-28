@@ -33,3 +33,7 @@ This Python program allows users to convert numbers between different bases, ran
 4. Enter the base to which you want to convert the number.
 5. The program will display the converted number.
 6. Type "exit" to quit the program.
+
+## Example Usage
+
+![Base Converter output](https://github.com/user-attachments/assets/cf789e89-bcbe-4d89-b6f6-73dce9f7595e)
